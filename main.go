@@ -13,6 +13,6 @@ func main() {
 	text, err := client.Text()
 	fmt.Println("ERR",err)
 	fmt.Println(text)
-	fmt.Println("ASU")
+	fmt.Println("===END===")
 	// Hello, World!
 }
